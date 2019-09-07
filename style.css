@@ -1,0 +1,20 @@
+body {
+    background-color: #ee82ee;
+}
+
+.container {
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: darkgreen;
+    }
